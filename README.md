@@ -81,9 +81,6 @@ Sudoku Solved >>>
 - Each cell in the board is either a digit ('1'-'9') or a '.' indicating an empty cell.
 - The puzzle is guaranteed to have exactly one solution.
 
-## License
-This project is open-source and available for use under the [MIT License](LICENSE).
-
 ## Contact
 For any inquiries or improvements, feel free to reach out via [GitHub](https://github.com/rudxkush).
 
